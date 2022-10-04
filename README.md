@@ -6,9 +6,10 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge) -->
 
-<img src="brain.jpeg" alt="Deep Learning">
+<img src="./images/brain.jpeg" alt="Deep Learning">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> "Emotions describe a complex set of interactions between subjective and objective variables that are mediated by neural and hormonal systems, which can (a) give rise to affective experiences of emotional valence (pleasure-displeasure) and emotional arousal (high-low activation/calming-arousing); (b) generate cognitive processes such as emotionally relevant perceptual affect, appraisals, labeling processes; (c) activate widespread psychological and physiological changes to the arousing conditions; and (d) motivate behavior that is often but not always expressive, goal-directed and adaptive." Panksepp, J. (1998)
+
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
@@ -96,13 +97,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   </tr>
 </table>
 
+<br>
 
-## 😄 Seja um dos contribuidores<br>
-
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
-
-## 📝 Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
 [⬆ Voltar ao topo](#nome-do-projeto)<br>
